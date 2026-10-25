@@ -1,0 +1,59 @@
+#Container{
+
+    border: 4px solid black;
+    height: 560px;
+    width: 400px;
+    margin: auto;
+    background-image: url(https://i.pinimg.com/736x/5a/12/a1/5a12a1ed9e8f27059aefb2cdc1958615.jpg);
+   
+}
+
+#Header{
+
+    height: 75px;
+    width: 200px;
+    border: 4px solid black;
+    margin: auto;
+    margin-top: 15px;
+    background-color: red;
+}
+
+
+#Header h1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+
+}
+
+
+#Main{
+
+    border: 4px solid black;
+    height: 400px;
+    width: 300px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: red;
+}
+
+#Main p{
+
+    color: white;
+    margin-left: 11px;
+    font-family: Georgia, 'Times New Roman', Times, serif   
+}
+
+
+#Main h2{
+
+margin-left: 70px;
+
+}
+
+#Main img{
+
+    margin-left: 100px;
+    border: 4px solid white;
+}
